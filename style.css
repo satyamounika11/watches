@@ -62,5 +62,7 @@ body {
 	padding-bottom: 100px;
 	padding-left: 500px;
 }
-
+.col-lg-6 .img-fluid{
+	height: 55vh;
+}
 
