@@ -15,6 +15,26 @@ body {
 .my-4{
 	text-align: center;
 }
+.col-lg-3 .card{
+	background-color: #dcdcdc;
+}
+.col-lg-3 .card-img-top{
+	height: 35vh;
+}
+.col-lg-3 .dealer{
+	border-radius: 50%;
+	height: 30px;
+	width: 30px;
+}
+.col-lg-3 .card-title{
+	color: black;
+}
+.col-lg-3 .card-text{
+	font-size: 12px;
+}
+.col-lg-3 .btn{
+	font-size: 12px;
+}
 
 .portfolio-item {
   margin-bottom: 30px;
