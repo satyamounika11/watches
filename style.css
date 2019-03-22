@@ -65,4 +65,23 @@ body {
 .col-lg-6 .img-fluid{
 	height: 55vh;
 }
-
+.footer-top{
+	background-color: #3B4047;
+	color: #ffffff;
+}
+.footer-top .col-md-4 {
+	padding-top: 15px;
+	font-size: 12px;
+}
+.col-md-4 .fab {
+	color: #f1f1f1;
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+.col-md-4 .subscribe .form-control{
+	border-radius: 25px;
+}
+.col-md-4 .col-md-6 .cards{
+	height: 30px;
+	width: 40px;
+}
