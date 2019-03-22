@@ -84,4 +84,5 @@ body {
 .col-md-4 .col-md-6 .cards{
 	height: 30px;
 	width: 40px;
+	padding-bottom: 10px;
 }
